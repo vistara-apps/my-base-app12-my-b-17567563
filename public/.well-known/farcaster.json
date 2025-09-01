@@ -10,14 +10,14 @@
     "subtitle": "Built with Zara",
     "description": "My Base App12 is a Base Mini App built with Zara.",
     "iconUrl": "https://0co.to/images/zara-2.png",
-    "homeUrl": "https://my-base-app12.vistara.dev",
-    "splashImageUrl": "https://dummyimage.com/200x200/0a0b0d/ffffff.png&text=Splash",
+    "homeUrl": "https://mybaseapp12-cl6p-pcazl290d-vistara.vercel.app",
+    "splashImageUrl": "https://mybaseapp12-cl6p-pcazl290d-vistara.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
-    "heroImageUrl": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Hero",
+    "heroImageUrl": "https://mybaseapp12-cl6p-pcazl290d-vistara.vercel.app/image.png",
     "tagline": "My Base App12",
     "screenshotUrls": [
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot1",
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot2"
+      "https://mybaseapp12-cl6p-pcazl290d-vistara.vercel.app/screenshot.png",
+      "https://mybaseapp12-cl6p-pcazl290d-vistara.vercel.app/screenshot.png"
     ],
     "primaryCategory": "social",
     "tags": [
@@ -25,6 +25,6 @@
       "miniapp",
       "onchainkit"
     ],
-    "webhookUrl": "https://my-base-app12.vistara.dev/api/webhook"
+    "webhookUrl": "https://mybaseapp12-cl6p-pcazl290d-vistara.vercel.app/api/webhook"
   }
 }
